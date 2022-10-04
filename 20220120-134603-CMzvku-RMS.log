@@ -1,0 +1,181 @@
+2022-01-20 13:46:03 Info: Features:
+2022-01-20 13:46:03 Info:         STRUCTMOD_HAVANA_EXPORT (enabled)
+2022-01-20 13:46:03 Info: 
+2022-01-20 13:46:03 Progress: Initializing seismic components...
+2022-01-20 13:46:05 Progress: Initializing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing (Production data)
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing (Channel)
+2022-01-20 13:46:05 Progress: Clearing (Levee)
+2022-01-20 13:46:05 Progress: Clearing (Crevasse)
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Loading Predefined (wellsymbols)
+2022-01-20 13:46:05 Progress: Loading Predefined (pointsymbols)
+2022-01-20 13:46:05 Progress: Loading Predefined (pointmarkers)
+2022-01-20 13:46:05 Progress: Loading Predefined (linesymbols)
+2022-01-20 13:46:05 Progress: Loading Predefined (areasymbols)
+2022-01-20 13:46:05 Progress: Loading Predefined (stdcolortable)
+2022-01-20 13:46:05 Progress: Updating Company Maps
+2022-01-20 13:46:05 Progress: Clearing
+2022-01-20 13:46:05 Progress: Executing: /prog/roxar/rms/versions/12.1.2/resource/ipl/RMSSetup.ipl
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing (Production data)
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Clearing
+2022-01-20 13:46:52 Progress: Loading Predefined (wellsymbols)
+2022-01-20 13:46:52 Progress: Loading Predefined (pointsymbols)
+2022-01-20 13:46:52 Progress: Loading Predefined (pointmarkers)
+2022-01-20 13:46:52 Progress: Loading Predefined (linesymbols)
+2022-01-20 13:46:52 Progress: Loading Predefined (areasymbols)
+2022-01-20 13:46:52 Progress: Loading Predefined (stdcolortable)
+2022-01-20 13:46:52 Progress: Updating Company Maps
+2022-01-20 13:46:52 Progress: Clearing
